@@ -6,7 +6,7 @@ This repository contains the interactive sales dashboard developed for the **Uni
 ---
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](image.png)
+![Sales Dashboard](Dashboard.png)
 
 ---
 
